@@ -19,4 +19,16 @@ This chat example showcases how to use `socket.io` with a static `express` serve
 
     $ node server.js
 
-Once the server is running, open the project in the shape of 'https://projectname-username.c9.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+Once the server is running, open the project in the shape of 'https://projectname-username.c9.io/'. 
+As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+
+## Инсталяция примера
+
+```bash
+git clone git@github.com:khusamov-dump/lesson1.git
+npm install
+```
+
+Инструкция как инсталировать npm и Node.js можно найти по адресу:
+https://gist.github.com/khusamov/ecf839a203a48bb7db77
+Внимание, npm устанавливается автоматом вместе с Node.js,
